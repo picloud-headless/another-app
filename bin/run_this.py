@@ -1,4 +1,4 @@
-from helloworld import hello
+from anotherapp import hello
 import sys
 
 args = sys.argv

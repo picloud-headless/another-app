@@ -7,5 +7,5 @@ setup(name='Another App',
       description='Another app ',
       author='Sandhya R',
       author_email='sandhya.ramanarayanan@sjsu.edu',
-      packages=['another-app'],
+      packages=['anotherapp'],
      )
