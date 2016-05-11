@@ -2,10 +2,10 @@
 
 from distutils.core import setup
 
-setup(name='HelloWorld',
+setup(name='Another App',
       version='0.1',
-      description='Hello World Server',
+      description='Another app ',
       author='Sandhya R',
       author_email='sandhya.ramanarayanan@sjsu.edu',
-      packages=['helloworld'],
+      packages=['another-app'],
      )
